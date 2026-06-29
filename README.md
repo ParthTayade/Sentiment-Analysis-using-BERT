@@ -14,10 +14,15 @@ Classify reviews into 1–5 star sentiment categories.
 Evaluate model performance using metrics such as Accuracy and Classification Report.
 ### Technologies Used
 &#9679; Python
+
 &#9679; BERT (Hugging Face Transformers)
+
 &#9679; PyTorch
+
 &#9679; Pandas
+
 &#9679; NumPy
+
 &#9679; Scikit-learn
 
 ## Project Details
@@ -25,8 +30,6 @@ Evaluate model performance using metrics such as Accuracy and Classification Rep
 **Model:** Pre-trained BERT (Hugging Face Transformers)
 
 **Dataset:** Amazon Reviews Dataset (Kaggle)
-
-**Accuracy:** XX.XX%
 
 **Language:** Python
 
